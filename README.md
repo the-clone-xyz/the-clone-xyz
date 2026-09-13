@@ -4,48 +4,37 @@
 
 <div align="center">
 
-<!-- SVG Banner dengan Background Gradasi & Animasi -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,0969DA,58A6FF,00D2FF&height=250&section=header&text=Yogi%20Irwan%20Syahputra&fontSize=45&fontAlignY=35&fontColor=ffffff&desc=Web%20Developer%20%7C%20Graphic%20Designer%20%7C%20Educator&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="Header Background">
-
-<br>
-
-<!-- Typing SVG -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=850&height=50&lines=Building+Digital+Solutions+for+Education+%26+Business;Turning+Ideas+into+Useful+Digital+Products;Teaching+Coding,+AI,+and+Graphic+Design"
-  alt="Professional tagline"
-/>
-
-<br>
+<!-- SVG Banner dengan Tema Navy Blue (Sesuai Foto Profil) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A3D91&height=220&section=header&text=Yogi%20Irwan%20Syahputra&fontSize=40&fontAlignY=35&fontColor=ffffff&desc=Web%20Developer%20%7C%20Graphic%20Designer%20%7C%20Educator&descAlignY=55&descSize=16&animation=fadeIn" width="100%" alt="Header Background">
 
 <p>
-  <b>💻 Web Development</b> &nbsp;•&nbsp;
-  <b>🎨 UI & Graphic Design</b> &nbsp;•&nbsp;
-  <b>🤖 AI & Education</b>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=0A3D91&center=true&vCenter=true&width=850&height=40&lines=Building+Digital+Solutions+for+Education+%26+Business;Turning+Ideas+into+Useful+Digital+Products;Teaching+Coding,+AI,+and+Graphic+Design" alt="Professional tagline"/>
 </p>
 
-<br>
+<p>
+  <b>💻 Web Development</b> &nbsp;•&nbsp; <b>🎨 UI & Graphic Design</b> &nbsp;•&nbsp; <b>🤖 AI & Education</b>
+</p>
 
-<!-- Badges -->
-<a href="https://github.com/the-clone-xyz?tab=followers">
-<img src="https://custom-icon-badges.demolab.com/github/followers/the-clone-xyz?color=0969DA&labelColor=1F6FEB&style=for-the-badge&logo=person-add&label=Followers&logoColor=white">
-</a>
-<a href="https://github.com/the-clone-xyz?tab=repositories">
-<img src="https://custom-icon-badges.demolab.com/github/stars/the-clone-xyz?color=FFD33D&labelColor=9E6A03&style=for-the-badge&logo=star&label=Stars&logoColor=white">
-</a>
-<img src="https://komarev.com/ghpvc/?username=the-clone-xyz&label=PROFILE+VIEWS&color=8957E5&style=for-the-badge">
+<p>
+  <a href="https://github.com/the-clone-xyz?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/the-clone-xyz?color=0A3D91&labelColor=1F6FEB&style=for-the-badge&logo=person-add&label=Followers&logoColor=white">
+  </a>
+  <a href="https://github.com/the-clone-xyz?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/the-clone-xyz?color=FFD33D&labelColor=9E6A03&style=for-the-badge&logo=star&label=Stars&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=the-clone-xyz&label=PROFILE+VIEWS&color=0A3D91&style=for-the-badge">
+</p>
 
-<br><br>
-
-<a href="https://portfolioyogisyahputra.42web.io">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0969DA?style=for-the-badge">
-</a>
-<a href="https://tiktok.com/@ruangbelajar_html">
-<img src="https://img.shields.io/badge/🎓%20RuangBelajar%20HTML-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-</a>
+<p>
+  <a href="https://portfolioyogisyahputra.42web.io">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A3D91?style=for-the-badge">
+  </a>
+  <a href="https://tiktok.com/@ruangbelajar_html">
+    <img src="https://img.shields.io/badge/🎓%20RuangBelajar%20HTML-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+</p>
 
 </div>
-
-<br>
 
 ---
 
@@ -75,15 +64,10 @@ I am a **Web Developer, Graphic Designer, and Educator** who enjoys building pra
 💡 Long-term goal: building **useful and accessible educational technology**
 
 </td>
-
 <td width="40%" align="center">
 
-<!-- Menggunakan aset animasi agar lebih hidup -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 15px;">
-
-<br><br>
-
-<b>🚀 Building • Learning • Teaching</b>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 10px;">
+<p><b>🚀 Building • Learning • Teaching</b></p>
 
 </td>
 </tr>
@@ -108,8 +92,6 @@ I am a **Web Developer, Graphic Designer, and Educator** who enjoys building pra
 
 </div>
 
-<br>
-
 ---
 
 <!-- ===================================================== -->
@@ -121,15 +103,11 @@ I am a **Web Developer, Graphic Designer, and Educator** who enjoys building pra
 <div align="center">
   <p><b>🌐 Frontend</b></p>
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap,jquery&theme=light" />
-  <br><br>
   <p><b>⚙️ Backend & Database</b></p>
   <img src="https://skillicons.dev/icons?i=php,laravel,python,java,codeigniter,mysql&theme=light" />
-  <br><br>
   <p><b>🎨 Design & Tools</b></p>
   <img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode&theme=light" />
 </div>
-
-<br>
 
 ---
 
@@ -150,7 +128,6 @@ Modern attendance management system built for school environments.
 - QR Code & Attendance dashboard
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🍢 Sate Nusantara
@@ -161,7 +138,6 @@ Interactive landing page for a culinary business.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -172,7 +148,6 @@ Developing practical AI applications for education.
 - Image classification
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📚 RuangBelajar HTML
@@ -195,26 +170,14 @@ Educational content platform focused on web technologies.
 
 <div align="center">
 
-<!-- Statistik dengan SVG Background kustom berwarna biru muda -->
-<img
-src="https://github-readme-stats.vercel.app/api?username=the-clone-xyz&show_icons=true&bg_color=F3F7FA&title_color=0969DA&text_color=24292f&icon_color=0969DA&border_radius=15&hide_border=true&include_all_commits=true"
-width="48%"
-alt="GitHub Stats"
-/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=the-clone-xyz&show_icons=true&bg_color=ffffff&title_color=0A3D91&text_color=24292f&icon_color=0A3D91&border_color=0A3D91&border_radius=10&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-clone-xyz&background=ffffff&stroke=0A3D91&ring=0A3D91&fire=0A3D91&currStreakNum=24292f&sideNums=24292f&currStreakLabel=57606a&sideLabels=57606a&dates=57606a&border_color=0A3D91&border_radius=10" width="48%" alt="GitHub Streak" />
+</p>
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=the-clone-xyz&background=F3F7FA&stroke=0969DA&ring=0969DA&fire=0969DA&currStreakNum=24292f&sideNums=24292f&currStreakLabel=57606a&sideLabels=57606a&dates=57606a&hide_border=true&border_radius=15"
-width="48%"
-alt="GitHub Streak"
-/>
-
-<br><br>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-clone-xyz&layout=compact&bg_color=F3F7FA&title_color=0969DA&text_color=24292f&hide_border=true&border_radius=15"
-width="48%"
-alt="Top Languages"
-/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-clone-xyz&layout=compact&bg_color=ffffff&title_color=0A3D91&text_color=24292f&border_color=0A3D91&border_radius=10" width="45%" alt="Top Languages" />
+</p>
 
 </div>
 
@@ -227,14 +190,7 @@ alt="Top Languages"
 <h2>🐍 Contribution Activity</h2>
 
 <div align="center">
-
-<!-- Ular SVG (Light Mode) memakan kontribusi GitHub -->
-<img
-src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-width="100%"
-alt="GitHub Contribution Snake"
-/>
-
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />
 </div>
 
 ---
@@ -247,31 +203,28 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-<a href="mailto:yogisyahputra713@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://tiktok.com/@ruangbelajar_html">
-<img src="https://img.shields.io/badge/RuangBelajar_HTML-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-</a>
-<a href="https://portfolioyogisyahputra.42web.io">
-<img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-<a href="https://github.com/the-clone-xyz">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
+<p>
+  <a href="mailto:yogisyahputra713@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://tiktok.com/@ruangbelajar_html">
+    <img src="https://img.shields.io/badge/RuangBelajar_HTML-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+  <a href="https://portfolioyogisyahputra.42web.io">
+    <img src="https://img.shields.io/badge/Portfolio-0A3D91?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://github.com/the-clone-xyz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ### 💡 "Build something useful. Learn something new. Share what you know."
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A3D91&height=120&section=footer" width="100%" alt="Footer Background">
 
-<!-- SVG Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,58A6FF,0969DA&height=120&section=footer" width="100%" alt="Footer Background">
-
-<br>
-<b>⭐ Thanks for visiting my profile!</b>
-<br>
-<i>If you find my projects useful, consider giving them a star.</i>
+<p>
+  <b>⭐ Thanks for visiting my profile!</b><br>
+  <i>If you find my projects useful, consider giving them a star.</i>
+</p>
 
 </div>
