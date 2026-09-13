@@ -1,7 +1,3 @@
-<!-- ===================================================== -->
-<!--                    HERO SECTION                       -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 <img src="custom-batik.png" width="100%" height="90" alt="RuangBelajar HTML Batik Header">
@@ -9,12 +5,12 @@
 <br><br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=YOGI+IRWAN+SYAHPUTRA"
+  src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=800&height=70&lines=YOGI+IRWAN+SYAHPUTRA"
   alt="Yogi Irwan Syahputra"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=850&height=40&lines=Web+Developer+%E2%80%A2+Graphic+Designer+%E2%80%A2+Educator;Building+Digital+Solutions+for+Education+%26+Business;Turning+Ideas+into+Useful+Digital+Products"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=57606A&center=true&vCenter=true&width=850&height=40&lines=Web+Developer+%E2%80%A2+Graphic+Designer+%E2%80%A2+Educator;Building+Digital+Solutions+for+Education+%26+Business;Turning+Ideas+into+Useful+Digital+Products"
   alt="Professional tagline"
 />
 
@@ -31,7 +27,7 @@
 <br>
 
 <a href="https://github.com/the-clone-xyz?tab=followers">
-<img src="https://custom-icon-badges.demolab.com/github/followers/the-clone-xyz?color=58A6FF&labelColor=1F6FEB&style=for-the-badge&logo=person-add&label=Followers&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/github/followers/the-clone-xyz?color=0969DA&labelColor=1F6FEB&style=for-the-badge&logo=person-add&label=Followers&logoColor=white">
 </a>
 
 <a href="https://github.com/the-clone-xyz?tab=repositories">
@@ -43,7 +39,7 @@
 <br><br>
 
 <a href="https://portfolioyogisyahputra.42web.io">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-58A6FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0969DA?style=for-the-badge">
 </a>
 
 <a href="https://tiktok.com/@ruangbelajar_html">
@@ -55,10 +51,6 @@
 <br>
 
 ---
-
-<!-- ===================================================== -->
-<!--                    ABOUT ME                           -->
-<!-- ===================================================== -->
 
 <h2>👨‍💻 About Me</h2>
 
@@ -106,10 +98,6 @@ I am a **Web Developer, Graphic Designer, and Educator** who enjoys building pra
 
 ---
 
-<!-- ===================================================== -->
-<!--                 WHAT I DO                             -->
-<!-- ===================================================== -->
-
 <h2>🚀 What I Do</h2>
 
 <div align="center">
@@ -126,10 +114,6 @@ I am a **Web Developer, Graphic Designer, and Educator** who enjoys building pra
 <br>
 
 ---
-
-<!-- ===================================================== -->
-<!--                 TECH STACK                            -->
-<!-- ===================================================== -->
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -152,10 +136,6 @@ I am a **Web Developer, Graphic Designer, and Educator** who enjoys building pra
 </p>
 
 ---
-
-<!-- ===================================================== -->
-<!--                  FEATURED PROJECTS                    -->
-<!-- ===================================================== -->
 
 <h2>🔥 Featured Projects</h2>
 
@@ -240,10 +220,6 @@ Educational content platform focused on:
 
 ---
 
-<!-- ===================================================== -->
-<!--                  CURRENT FOCUS                        -->
-<!-- ===================================================== -->
-
 <h2>🌱 Currently Learning</h2>
 
 <div align="center">
@@ -259,10 +235,6 @@ Educational content platform focused on:
 <br>
 
 ---
-
-<!-- ===================================================== -->
-<!--                  CERTIFICATIONS                       -->
-<!-- ===================================================== -->
 
 <h2>📜 Certifications</h2>
 
@@ -295,28 +267,24 @@ alt="IoT Multimedia Technologies Certificate">
 
 ---
 
-<!-- ===================================================== -->
-<!--                  GITHUB ANALYTICS                     -->
-<!-- ===================================================== -->
-
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=the-clone-xyz&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true"
+src="https://github-readme-stats.vercel.app/api?username=the-clone-xyz&show_icons=true&theme=default&hide_border=true&border_radius=12&include_all_commits=true"
 width="48%"
 />
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=the-clone-xyz&theme=dark&hide_border=true&border_radius=12"
+src="https://github-readme-streak-stats.herokuapp.com/?user=the-clone-xyz&theme=default&hide_border=true&border_radius=12"
 width="48%"
 />
 
 <br><br>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-clone-xyz&layout=compact&theme=github_dark&hide_border=true&border_radius=12"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-clone-xyz&layout=compact&theme=default&hide_border=true&border_radius=12"
 width="42%"
 />
 
@@ -324,16 +292,12 @@ width="42%"
 
 ---
 
-<!-- ===================================================== -->
-<!--                  CONTRIBUTION                         -->
-<!-- ===================================================== -->
-
 <h2>🐍 Contribution Activity</h2>
 
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
 width="100%"
 alt="GitHub Contribution Snake"
 />
@@ -341,10 +305,6 @@ alt="GitHub Contribution Snake"
 </div>
 
 ---
-
-<!-- ===================================================== -->
-<!--                  ACHIEVEMENTS                         -->
-<!-- ===================================================== -->
 
 <h2>🏆 Achievements & Experience</h2>
 
@@ -362,25 +322,17 @@ alt="GitHub Trophies"
 
 <div align="center">
 
-🎓 **Academic Achievement**  
-Consistently ranked among the top students during high school.
+🎓 **Academic Achievement** Consistently ranked among the top students during high school.
 
-🏛️ **Organization**  
-Former OSIS Chairman & BEM Research and Technology Coordinator.
+🏛️ **Organization** Former OSIS Chairman & BEM Research and Technology Coordinator.
 
-👨‍🏫 **Education**  
-Teaching Coding, AI & Graphic Design.
+👨‍🏫 **Education** Teaching Coding, AI & Graphic Design.
 
-💻 **Development**  
-Building practical applications for education and business.
+💻 **Development** Building practical applications for education and business.
 
 </div>
 
 ---
-
-<!-- ===================================================== -->
-<!--                  CONNECT                              -->
-<!-- ===================================================== -->
 
 <h2>🤝 Let's Connect</h2>
 
@@ -395,7 +347,7 @@ Building practical applications for education and business.
 </a>
 
 <a href="https://portfolioyogisyahputra.42web.io">
-<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 <a href="https://github.com/the-clone-xyz">
